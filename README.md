@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🌱
 
 I'm a full-stack developer based in Thailand who enjoys turning random ideas into real things.
 
