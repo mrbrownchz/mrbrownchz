@@ -1,6 +1,4 @@
 ## Hi there 👋
-I'm Brown, a full-stack developer from Thailand who loves learning, experimenting, and turning random ideas into something real."
-# Hey, I'm Brown! 👋
 
 I'm a full-stack developer based in Thailand who enjoys turning random ideas into real things.
 
@@ -8,24 +6,7 @@ I like building things, exploring how they work, and figuring things out along t
 
 I'm not someone who knows everything. I just enjoy learning from others, making mistakes, and getting a little better each time.
 
-### 🛠️ Things I Work With
-
-**Main Stack**
-
-- Next.js
-- TypeScript
-- Tailwind CSS
-- PostgreSQL
-- Prisma
-- shadcn/ui
-- Motion
-
-**My favorite tools**
-
-- Figma
-- Notion
-
-### 🧠 Beyond Coding
+My tech stack is nextjs, typescript, tailwind css, postgresSQL, prisma, shadcn/ui and motion. My tools are figma, notion, github desktop
 
 I'm also curious about design, business, and how good products come to life.
 
