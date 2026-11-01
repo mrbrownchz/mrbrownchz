@@ -1,6 +1,6 @@
-## Hey there 👋🌱
+## Hey there 👋
 
-I'm a full-stack developer based in Thailand who enjoys turning random ideas into real things.
+I'm a full-stack developer based in Thailand who enjoys turning random ideas into real things. 🌱
 
 I like building things, exploring how they work, and figuring things out along the way. Whenever an idea pops into my head, there's a good chance I'll end up experimenting with it and turning it into a project.
 
