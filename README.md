@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm a full-stack developer based in Thailand who enjoys turning random ideas into real things. 🌱
+I'm [Brown](https://github.com/mrbrownchz/), a full-stack developer based in Thailand who enjoys turning random ideas into real things. 🌱
 
 I like building things, exploring how they work, and figuring things out along the way. Whenever an idea pops into my head, there's a good chance I'll end up experimenting with it and turning it into a project.
 
@@ -11,6 +11,8 @@ My tech stack is nextjs, typescript, tailwind css, postgresSQL, prisma, shadcn/u
 I'm also curious about design, business, and how good products come to life.
 
 I enjoy exploring ideas, thinking about products, and experimenting with things even when they're just for fun.
+
+My favorite project is the [Rent a Girlfriend Website Clone](https://rent-a-girlfriend-ss2.vercel.app/)
 
 ### 🐈 A Little More About Me
 
